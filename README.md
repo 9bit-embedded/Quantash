@@ -54,7 +54,7 @@ It is structured as monolithic repository, or "monorepo", where all components l
 
 ## Licensing
 
-Unless otherwise noted, everything in this repository is covered by the Apache License, Version 2.0 (see [License](https://github.com/9bit-embedded/Quantash/blob/main/README.md) for full text).
+Unless otherwise noted, everything in this repository is covered by the Apache License, Version 2.0 (see [License](https://github.com/9bit-embedded/Quantash/blob/main/LICENSE) for full text).
 
 ---
 
