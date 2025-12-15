@@ -1,0 +1,19 @@
+# mkdocs.yml
+# Copyright 9bit Embedded (Quantash project).
+# Licensed under the Apache License, Version 2.0, see LICENSE for details.
+# SPDX-License-Identifier: Apache-2.0
+site_name: Quantash documentations
+theme: 
+  name: material
+  palette:
+    primary: white
+  logo: images/quantash_logo.svg
+  features:
+    - navigation.expand
+    - navigation.indexes
+    - search.suggest
+    - toc.follow
+nav:
+  - Home: index.md
+  - Specification: 
+    - Introduction: 001_specification/001_introduction.md

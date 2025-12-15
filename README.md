@@ -1,5 +1,7 @@
 # Quantash
 
+![Quantash logo](docs/images/quantash_logo_and_name.png)
+
 Quantash (Quantum Agile Security Hardware) is an open-source, hardware-optimized Post-Quantum Cryptography (PQC) Security Element IP core designed for seamless integration into ASIC and FPGA platforms.
 The project combines a compact open-source RISC-V processor with custom hardware accelerators to efficiently offload and execute the computationally intensive operations of modern PQC algorithms on resource-constrained embedded devices.
 
