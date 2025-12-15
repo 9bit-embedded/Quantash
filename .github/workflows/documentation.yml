@@ -33,7 +33,7 @@ jobs:
       
       # Step 4: Start MkDocs build and deploy to GitHub pages
       - name: Deploy documentation to GitHub Pages
-        uses: peaceiris/actions-mkdocs@v2.0.0 
+        uses: peaceiris/actions-mkdocs@v3.0.0 
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           configuration_file: mkdocs.yml
